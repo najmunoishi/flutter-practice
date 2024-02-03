@@ -23,7 +23,7 @@ class DrawerScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      "Influx",
+                      "Influxdev",
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
