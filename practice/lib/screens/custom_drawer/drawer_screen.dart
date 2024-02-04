@@ -8,7 +8,7 @@ class DrawerScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-//key: _scaffoldKey,
+    //key: _scaffoldKey,
       appBar: AppBar(
         title: Text("Drawer Tile Design"),
       ),
@@ -82,17 +82,14 @@ class DrawerScreen extends StatelessWidget {
                       title: "Favorites",
                       icon: Icons.favorite,
                     ),
-                   
                     DrawerTile(
                       title: "Archive",
                       icon: Icons.download,
                     ),
-                    
                     DrawerTile(
                       title: "Trash",
                       icon: Icons.delete,
                     ),
-                    
                     DrawerTile(
                       title: "Spam",
                       icon: Icons.dangerous,
@@ -112,7 +109,7 @@ class DrawerScreen extends StatelessWidget {
                 height: 14,
               ),
               Padding(
-                padding:EdgeInsets.only(
+                padding: EdgeInsets.only(
                   left: 20,
                 ),
                 child: Text(
@@ -128,17 +125,14 @@ class DrawerScreen extends StatelessWidget {
                 ),
                 child: Column(
                   children: [
-                    
                     DrawerTile(
                       title: "Family",
                       icon: Icons.people,
                     ),
-                    
                     DrawerTile(
                       title: "Friends",
                       icon: Icons.people,
                     ),
-                    
                     DrawerTile(
                       title: "Work",
                       icon: Icons.work,
