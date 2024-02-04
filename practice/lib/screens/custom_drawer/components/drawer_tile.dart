@@ -16,6 +16,8 @@ class DrawerTile extends StatelessWidget {
         Padding(
           padding: EdgeInsets.only(
             left: 30,
+            top:16,
+            bottom: 16,
           ),
           child: Text(
             title,
