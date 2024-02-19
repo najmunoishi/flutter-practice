@@ -5,13 +5,17 @@
 
 # Grid View Design....
 ![Screenshots](screenshots/5.png)
-This screen showing details data.
+
+
+# This screen showing details data.
 ![Screenshots](screenshots/6.png)
 
 
 # List View Design....
 ![Screenshots](screenshots/7.png)
-and this page showing contacts details for each person.
+
+
+# and this page showing contacts details for each person.
 ![Screenshots](screenshots/8.png)
 
 
